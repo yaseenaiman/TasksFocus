@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
 
   inputcontainer: {
     padding: spacing.lg,
-    justifyContent: 'top',
+   
     flexDirection: 'row',
   },
   button: {
