@@ -31,5 +31,6 @@ const styles = StyleSheet.create({
     color: colors.white,
     fontSize: fontSizes.md,
     fontWeight: 'bold',
+    paddingLeft: 10,
   },
 });
