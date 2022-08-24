@@ -21,6 +21,7 @@ const styles = StyleSheet.create({
   container: {
     padding: spacing.md,
     flex:1,
+    
   },
   item: {
     fontSize: fontSizes.md,
@@ -31,6 +32,6 @@ const styles = StyleSheet.create({
     color: colors.white,
     fontSize: fontSizes.md,
     fontWeight: 'bold',
-    paddingLeft: 10,
+    paddingLeft:10,
   },
 });
